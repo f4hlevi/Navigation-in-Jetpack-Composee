@@ -4,20 +4,21 @@ This folder contains the source code for the
 [Navigation in Jetpack Compose Codelab](https://developer.android.com/codelabs/jetpack-compose-navigation)
 codelab.
 
-## License
-```
-Copyright 2022 The Android Open Source Project
+<img src="https://media3.giphy.com/media/sWFYgYFjHGugleQdO7/giphy.gif?cid=ecf05e47lgb28lxs9ulpwk1n6nflnds4oacv6l2u9nuu6v91&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100%"  >
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
 
-    https://www.apache.org/licenses/LICENSE-2.0
+<h1 align="center"> <img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/200.webp?cid=ecf05e47lgb28lxs9ulpwk1n6nflnds4oacv6l2u9nuu6v91&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" ># Praktikum-Pemograman-Sistem-Bergerak <img src="https://media4.giphy.com/media/rYbjgltjQzyYueGHnT/200.webp?cid=ecf05e47lgb28lxs9ulpwk1n6nflnds4oacv6l2u9nuu6v91&ep=v1_stickers_search&rid=200.webp&ct=s" width="100" > </h1>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
+<table>
+<tr>
+<td>
+<b><pre>
+<h3>
+👨‍🎓 Nama     : Fajri Alhidra Fahlevi
 
+📇 NIM      : 23343062
+
+📚 Prodi    : Informatics
+
+🧑‍🏫️ Dosen    : Iip Permana, S.T., M.T.
